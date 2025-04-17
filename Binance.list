@@ -2,8 +2,10 @@
 # AUTHOR: huiguorou
 # REPO: https://github.com/huiguorou/clash/new/main/clash
 # UPDATED: 2025-04-05 23:09:44
-# DOMAIN-SUFFIX: 46
-# TOTAL: 46
+# DOMAIN-SUFFIX: 47
+# DOMAIN-KEYWORD: 2
+# DOMAIN: 1
+# TOTAL: 50
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
