@@ -6,6 +6,7 @@
 # DOMAIN-KEYWORD: 2
 # DOMAIN: 1
 # TOTAL: 50
+
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
@@ -54,4 +55,3 @@ DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,mokexapp.io
 DOMAIN-KEYWORD,mokexapp
 DOMAIN-KEYWORD,binance
-DOMAIN,itunes.apple.com
