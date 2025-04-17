@@ -2,10 +2,10 @@
 # AUTHOR: huiguorou
 # REPO: https://github.com/huiguorou/clash/new/main/clash
 # UPDATED: 2025-04-05 23:09:44
-# DOMAIN-SUFFIX: 48
+# DOMAIN-SUFFIX: 47
 # DOMAIN-KEYWORD: 2
-# DOMAIN: 2
-# TOTAL: 52
+# DOMAIN: 1
+# TOTAL: 50
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
@@ -51,10 +51,7 @@ DOMAIN-SUFFIX,binancezh.net
 DOMAIN-SUFFIX,binancezh.pro
 DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
-DOMAIN-SUFFIX,binance.click
 DOMAIN-SUFFIX,mokexapp.io
 DOMAIN-KEYWORD,mokexapp
 DOMAIN-KEYWORD,binance
-PROCESS-NAME,clash
 DOMAIN,itunes.apple.com
-DOMAIN,www.binance.click
