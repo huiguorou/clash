@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,commbank.com.au
 DOMAIN-SUFFIX,westpac.com.au
 DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,gov.au
+DOMAIN-KEYWORD,bank
 
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
