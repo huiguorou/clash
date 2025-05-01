@@ -4,6 +4,9 @@
 # 强制直连域名列表，来自个人收集
 # 参考了Aethersailor大佬的文本 致谢
 
+# APPLETV+
+DOMAIN-SUFFIX,tv.apple.com
+
 # 海外政府银行 相关
 DOMAIN-SUFFIX,iras.gov.sg
 DOMAIN-SUFFIX,commbank.com.au
